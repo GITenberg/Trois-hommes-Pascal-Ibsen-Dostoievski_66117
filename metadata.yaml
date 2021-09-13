@@ -1,0 +1,44 @@
+_repo: Trois-hommes-Pascal-Ibsen-Dostoievski_66117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suarès, André
+    aliases:
+    - Bruce, William Makepace
+    - Séipse, André de
+    - Scantrel, Felix Andre Yves
+    - Caerdal
+    - Bangor, Félix
+    - ResSua
+    - Makepace Bruce, William
+    - Caërdal
+    - Bangor, Felix
+    - Suarès, Isaac Félix
+    - Seipse, Andre de
+    - Bondel, Ponce
+    - Suares, Andre
+    - Scantrel, Yves
+    - Scantrel, Félix André Yves
+    birthdate: 1868
+    deathdate: 1948
+    gutenberg_agent_id: '49487'
+    url: http://www.gutenberg.org/2009/agents/49487
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66117'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Pascal, Blaise, 1623-1662'
+- !lcsh 'Ibsen, Henrik, 1828-1906'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881'
+- GITenberg
+title: 'Trois hommes: Pascal, Ibsen, Dostoïevski'
+url: http://www.gutenberg.org/ebooks/66117
